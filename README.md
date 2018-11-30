@@ -1,5 +1,5 @@
 # wgan-and-wgan-gp-with-gluon
-implemente wgan and wgan-gp in gluon and compare the quality of generated images with inception score and FID(in tensorflow)
+implement wgan and wgan-gp in gluon and compare the quality of generated images with inception score and FID(in tensorflow)
 
 
 ## generated images:
@@ -28,7 +28,7 @@ implemente wgan and wgan-gp in gluon and compare the quality of generated images
 ![](https://github.com/veetsin/wgan-and-wgan-gp-with-gluon/blob/master/images/is_fid.png)
 
 
-this part used code from officialy implementation with tensorflow
+this part used code from official implementation with tensorflow
 
 [inception-score](https://github.com/openai/improved-gan)
 [FID](https://github.com/tsc2017/Frechet-Inception-Distance)
